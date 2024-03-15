@@ -1,9 +1,9 @@
 # We Are Prime Time Defense
 
-![PRIMETIME DEFENSE](<PRIME TIME.png>)
+
 
 ## Prime Time Mission Statement
-The Blue Team's mission is to proactively defend our organization's digital infrastructure and sensitive data against all cyber threats. Through continuous monitoring, rigorous vulnerability assessments, and the deployment of advanced security measures, we aim to ensure the integrity, confidentiality, and availability of our information assets while fostering a culture of cybersecurity awareness and resilience
+Prime Times mission is to proactively defend our organization's digital infrastructure and sensitive data against all cyber threats. Through continuous monitoring, rigorous vulnerability assessments, and the deployment of advanced security measures, we aim to ensure the integrity, confidentiality, and availability of our information assets while fostering a culture of cybersecurity awareness and resilience
 
 ### Devs
 
@@ -26,7 +26,7 @@ The Blue Team's mission is to proactively defend our organization's digital infr
   - Our solution is trying to log every move that the red team is doing
 
 ### Project Objections
-- [Project Objection](PrimeTime-Objectives.md) by: [Brittany Powell](https://github.com/Bmjohnson87)
+- [Project Objection](PrimeTime-Objectives.md)
 
 ### Topologys
 - [PrimeTime Timeline](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/TimeLine.pdf)
@@ -36,7 +36,7 @@ The Blue Team's mission is to proactively defend our organization's digital infr
 ### Documentations
 - [PrimeTime Team Agreement](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PT%20TEAM%20AGREEMENT.pdf)
 - [Splunk Dashboard Query/Alerts](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Splunk%20Dashboard%20Query%20%26%20Alert.pdf)
-- [Prime-Time DefendersSOP](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIME%20TIME%20Defenders%20SOP.pdf)
+- [PrimeTime DefendersSOP](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIME%20TIME%20Defenders%20SOP.pdf)
 - [Cyber Threat Intelligence and incident response report](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/FINAL%20REPORT.pdf)
 
 
