@@ -29,10 +29,12 @@ The Blue Team's mission is to proactively defend our organization's digital infr
 - [Project Objection](PrimeTime-Objectives.md) by: [Brittany Powell](https://github.com/Bmjohnson87)
 
 ### Topologys
+- [PrimeTime Timeline](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/TimeLine.pdf)
 - [PrimeTime Topology](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIMETIME-TOPO.pdf)
 - [Attack Vector](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Attack_Vectors.pdf)
 
 ### Documentations
+- [PrimeTime Team Agreement](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PT%20TEAM%20AGREEMENT.pdf)
 - [Splunk Dashboard Query/Alerts](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Splunk%20Dashboard%20Query%20%26%20Alert.pdf)
 - [Prime-Time DefendersSOP](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIME%20TIME%20Defenders%20SOP.pdf)
 - [Cyber Threat Intelligence and incident response report](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/FINAL%20REPORT.pdf)
@@ -40,7 +42,7 @@ The Blue Team's mission is to proactively defend our organization's digital infr
 
 
 ### Team Slide
-- [Prime-Time slide](PRIMETIME-TOPO.pdf)
+- [PrimeTime slide](PRIMETIME-TOPO.pdf)
 
 ### Project Management Tools
 - SPLUNK
