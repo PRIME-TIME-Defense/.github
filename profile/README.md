@@ -3,7 +3,7 @@
 ![PRIMETIME DEFENSE](<PRIME TIME.png>)
 
 ## Prime Time Mission Statement
-At PRIME-TIME, we are dedicated to fortifying SimCorp's systems against threats through proactive defense strategies. With innovative solutions and collaborative expertise, we safeguard our clients' infrastructure with unwavering vigilance, ensuring resilience in a dynamic digital environment
+The Blue Team's mission is to proactively defend our organization's digital infrastructure and sensitive data against all cyber threats. Through continuous monitoring, rigorous vulnerability assessments, and the deployment of advanced security measures, we aim to ensure the integrity, confidentiality, and availability of our information assets while fostering a culture of cybersecurity awareness and resilience
 
 ### Devs
 
@@ -18,13 +18,29 @@ At PRIME-TIME, we are dedicated to fortifying SimCorp's systems against threats 
 ### Project Description
 **Prime Time Defense, a leading cybersecurity firm, is tasked with conducting a threat emulation engagement for SimCorp, a major financial services company. As part of the engagement, Prime Time Defense's blue team, known as "Prime Time Defense," will adopt a proactive threat hunter posture. They'll observe and document adversarial progress in SimCorp's Virtual Private Cloud (VPC) without interfering, treating it as a honeypot. Their challenge is to quickly identify and address any blind spots in detection capabilities to ensure no threats are overlooked. With time ticking, Prime Time Defense must swiftly bolster detection mechanisms while maintaining engagement integrity. Strategic collaboration is key in safeguarding SimCorp's systems from cyber threats.**
 
+## Problem Domain
+**Problem**
+- Red team attempting to brute force, get into our systems, vpc
+  
+**Solutions**
+  - Our solution is trying to log every move that the red team is doing
+
 ### Project Objections
 - [Project Objection](PrimeTime-Objectives.md) by: [Brittany Powell](https://github.com/Bmjohnson87)
 
-<img width="1573" alt="Screenshot 2024-03-14 at 2 44 19 PM" src="https://github.com/PRIME-TIME-Defense/401FinalProject/assets/143548087/3f344bda-63a1-4d3d-a818-c7c544f41e09">
+### Topologys
+- [PrimeTime Topology](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIMETIME-TOPO.pdf)
+- [Attack Vector](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Attack_Vectors.pdf)
 
-## Team Slide
-- [Prime-Time slide](https://docs.google.com/presentation/d/1zaCPbFnbqMIyAIHtUVqfTDB549ItnrttLIhiqUStrbg/edit?usp=sharing)
+### Documentations
+- [Splunk Dashboard Query/Alerts](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Splunk%20Dashboard%20Query%20%26%20Alert.pdf)
+- [Prime-Time DefendersSOP](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIME%20TIME%20Defenders%20SOP.pdf)
+- [Cyber Threat Intelligence and incident response report](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/FINAL%20REPORT.pdf)
+
+
+
+### Team Slide
+- [Prime-Time slide](PRIMETIME-TOPO.pdf)
 
 ### Project Management Tools
 - SPLUNK
