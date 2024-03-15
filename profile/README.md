@@ -29,9 +29,12 @@ Prime Times mission is to proactively defend our organization's digital infrastr
 - [Project Objection](PrimeTime-Objectives.md)
 
 ### Topologys
-- [PrimeTime Timeline](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/TimeLine.pdf)
 - [PrimeTime Topology](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIMETIME-TOPO.pdf)
 - [Attack Vector](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Attack_Vectors.pdf)
+
+### PrimeTIme Time line
+
+![download](https://github.com/PRIME-TIME-Defense/.github/assets/143899785/9e109981-826e-4e33-80ab-b4442b6f3b84)
 
 ### Documentations
 - [PrimeTime Team Agreement](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PT%20TEAM%20AGREEMENT.pdf)
