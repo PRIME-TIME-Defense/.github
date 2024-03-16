@@ -41,6 +41,7 @@ Prime Times mission is to proactively defend our organization's digital infrastr
 - [Splunk Dashboard Query/Alerts](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Splunk%20Dashboard%20Query%20%26%20Alert.pdf)
 - [PrimeTime DefendersSOP](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIME%20TIME%20Defenders%20SOP.pdf)
 - [Cyber Threat Intelligence and incident response report](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/FINAL%20REPORT.pdf)
+- [Stride Analysis](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Stride%20Analysis.pdf)
 
 
 
